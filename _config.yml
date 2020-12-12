@@ -111,6 +111,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ivalaginja"
+    - label: ADS
+      icon: "/assets/images/ads_grey.png"
+      url: "https://ui.adsabs.harvard.edu/public-libraries/tOqGJaTQQBWHU0TuQMpuLw"
 
 # Site Footer
 footer:
