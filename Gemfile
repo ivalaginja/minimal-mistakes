@@ -7,4 +7,5 @@ group :jekyll_plugins do
   gem "jekyll-data"
   gem "kramdown-parser-gfm"
   gem "jekyll-remote-theme"
+  gem "jekyll-include-cache"
 end
