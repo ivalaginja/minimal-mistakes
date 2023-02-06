@@ -6,6 +6,8 @@ main:
     url: /cv/
   - title: "PhD thesis"
     url: /phd_thesis/
+  - title: "Life of a<br>researcher"
+    url: /life_of_a_researcher/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
