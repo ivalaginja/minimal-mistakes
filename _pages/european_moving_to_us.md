@@ -19,7 +19,7 @@ Keep in mind that some banks still require you to show up in person to close you
 
 ### 1.1.2. Brokerage accounts
 
-There is a reciprocity in what European tax residents are allowed to do in terms of stock trading in the US, and vice versa. With most brokers, you will not be allowed to trade if you are a “US person”, meaning if your tax residency is in the US. This does not automatically mean that you need to sell all your positions; there is often an option where you can keep your account and your investments, but you are simply not allowed to buy anymore. The best thing is to reach out to your financial institutio  and ask them about it. This is true upon moving from the US to Europe too by the way: if your tax residency is in Europe, you are not allowed to invest with most US brokers. So if you intend to do that while you are there, just keep that in mind.
+There is a reciprocity in what European tax residents are allowed to do in terms of stock trading in the US, and vice versa. With most brokers, you will not be allowed to trade if you are a “US person”, meaning if your tax residency is in the US. This does not automatically mean that you need to sell all your positions; there is often an option where you can keep your account and your investments, but you are simply not allowed to buy anymore. The best thing is to reach out to your financial institution and ask them about it. This is true upon moving from the US to Europe too by the way: if your tax residency is in Europe, you are not allowed to invest with most US brokers. So if you intend to do that while you are there, just keep that in mind.
 
 ## 1.2. Registration
 
@@ -27,13 +27,13 @@ Some countries/cities require you to deregister at the town hall or other admini
 
 ## 1.3. Passport
 
-Obviously you will need a passport and a visa to move. If you want to keep things convenient though, make sure your passport doesn't expire during your anticipated time in the US. If it is due to expire soon, it pays off to renew it before getting your visa so that you don't have to do it at your embassy after you move, and then in tip of that get the visa transferred to the new passport.
+Obviously you will need a passport and a visa to move. If you want to keep things convenient though, make sure your passport doesn't expire during your anticipated time in the US. If it is due to expire soon, it pays off to renew it before getting your visa so that you don't have to do it at your embassy after you move, and then on top of that get the visa transferred to the new passport.
 
 # 2. Most urgent items upon arrival
 
 ## 2.1. Bank account
 
-If you don't have a bank account, you cannot get paid. If you're not alreayd getting to the US I advance if your first day at work, make sure there is at least one working day between your arrival and your first day. This allows you to walk into the nearest bank and open a bank account to be ready to receive a salary. You can always switch banks later if you find a more attractive or practical offer. You cannot do much wrong by identifying the closest Bank of America (BofA) office and just showing up there.
+If you don't have a bank account, you cannot get paid. If you're not already getting to the US I advance if your first day at work, make sure there is at least one working day between your arrival and your first day. This allows you to walk into the nearest bank and open a bank account to be ready to receive a salary. You can always switch banks later if you find a more attractive or practical offer. You cannot do much wrong by identifying the closest Bank of America (BofA) office and just showing up there.
 
 You can check online what you need to open a bank account, usually it will be at least:
 
