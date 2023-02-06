@@ -8,6 +8,6 @@ There are some things that would have just been easier if you had known before, 
 day-to-day job as a researcher. On here, I compiled some information colleagues have asked of me and might serve
 others as well.
 
-(A European moving to the US)[/european_moving_to_us/]
+<a href="/european_moving_to_us/">A European moving to the US</a>
 
-(A European moving ot France)[/european_moving_to_France/]
+<a href="/european_moving_to_France/">A European moving ot France</a>
