@@ -4,6 +4,29 @@ permalink: /european_moving_to_us/
 title: A European moving ot the US
 ---
 I hold no responsibility for the consequences of anybody following the following advice. Some people told me it was useful.
+*Table of contents*  
+[1. Before departure](#1-before-departure)  
+[1.1. Bank accounts and finances](#11-bank-accounts-and-finances)  
+[1.1.1. Tax implications of foreign (to the US) bank accounts](#111-tax-implications-of-foreign-to-the-us-bank-accounts)   
+[1.1.2. Brokerage accounts](#112-brokerage-accounts)  
+[1.2. Registration](#12-registration)  
+[1.3. Passport](#13-passport)  
+[2. Most urgent items upon arrival](#2-most-urgent-items-upon-arrival)  
+[2.1. Bank account](#21-bank-account)  
+[2.2. Housing](#22-housing)  
+[2.3. Social security number (SSN)](#23-social-security-number-ssn)  
+[3. General items](#3-general-items)  
+[3.1. Phone plan](#31-phone-plan)  
+[3.2. Credit card](#32-credit-card)  
+[3.2.1. Initial credit card](#321-initial-credit-card)  
+[3.2.2. Building up your credit score](#322-building-up-your-credit-score)  
+[3.2.3. Get a real credit card](#323-get-a-real-credit-card)  
+[3.3. Driver's license](#33-drivers-license)  
+[3.4. ID card](#34-id-card)  
+[3.5. Car](#35-car)  
+[3.6. Taxes](#36-taxes)  
+[3.7. Venmo](#37-venmo)  
+[3.8. Registration with your home country](#38-registration-with-your-home-country)  
 
 # 1. Before departure
 
