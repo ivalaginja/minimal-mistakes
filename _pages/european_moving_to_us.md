@@ -155,3 +155,7 @@ It's very convenient when a group goes out for drinks and/or food, one pays the 
 ## 3.8. Registration with your home country
 
 Some countries have registration systems for their nationals residing abroad. That way they know where you are and sometimes they send out useful information by mail or email, for example if any big elections are coming up and how you can vote from abroad. Check it our for your country.
+
+
+--If you found this guide useful, and once you move to the land of the free to find your fame and fortune, consider
+sending some beer money my way by using your shiny new Venmo account - my handle is @Iva-Laginja, or simply click [here](https://venmo.com/u/Iva-Laginja).
