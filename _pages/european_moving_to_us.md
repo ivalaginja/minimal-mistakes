@@ -1,9 +1,10 @@
 ---
 layout: archive
 permalink: /european_moving_to_us/
-title: A European moving ot the US
+title: A European moving to the US
 ---
-I hold no responsibility for the consequences of anybody following the following advice. Some people told me it was useful.
+I hold no responsibility for the consequences of anybody following this advice. Some people simply told me it was useful, which is why I share it here.
+
 *Table of contents*  
 [1. Before departure](#1-before-departure)  
 [1.1. Bank accounts and finances](#11-bank-accounts-and-finances)  
@@ -32,21 +33,21 @@ I hold no responsibility for the consequences of anybody following the following
 
 ## 1.1. Bank accounts and finances
 
-You might or might not want to keep a European Bank account within SEPA with euro as currency. It comes in handy with a bank card when visiting home or of you intend to move back eventually. With accounts, the biggest issue to figure out is taxes and if you do not have any real estate in your name anywhere, the two points to watch out for here is your cash in checking accounts and potential brokerage accounts.
+You might or might not want to keep a European Bank account within SEPA with euro as currency. It comes in handy with a bank card when visiting home or if you intend to move back eventually. With accounts, the biggest issue to figure out is taxes and if you do not have any real estate in your name anywhere, the two points to watch out for here is your cash in checking accounts and potential brokerage accounts.
 
 ### 1.1.1. Tax implications of foreign (to the US) bank accounts
 
-If you will keep one or several bank accounts in Europe, what matters is the total amount if money you have in them. As long as that is less than €10,000, you will not have to declare it in your US tax return. If it is more, you will have to figure out how to correctly declare it. I do not know whether you actually pay taxes on foreign cash assets superior to this amount, that's a separate question to the need to declare.
+If you keep one or several bank accounts in Europe, what matters is the total amount if money you have in them. As long as that is less than ~€10,000, you will likely not have to declare it in your US tax return. If it is more, you will have to figure out how to correctly declare it. I do not know whether you actually pay taxes on foreign cash assets superior to the set amount, that's a separate question to the need to declare.
 
 Keep in mind that some banks still require you to show up in person to close your account, so keep that in mind for your moving plans.
 
 ### 1.1.2. Brokerage accounts
 
-There is a reciprocity in what European tax residents are allowed to do in terms of stock trading in the US, and vice versa. With most brokers, you will not be allowed to trade if you are a “US person”, meaning if your tax residency is in the US. This does not automatically mean that you need to sell all your positions; there is often an option where you can keep your account and your investments, but you are simply not allowed to buy anymore. The best thing is to reach out to your financial institution and ask them about it. This is true upon moving from the US to Europe too by the way: if your tax residency is in Europe, you are not allowed to invest with most US brokers. So if you intend to do that while you are there, just keep that in mind.
+There is a reciprocity in what European tax residents are allowed to do in terms of stock trading in the US, and vice versa. With most European brokers, you will not be allowed to trade if you are a “US person”, meaning if your tax residency is in the US. This does not automatically mean that you need to sell all your positions; there is often an option where you can keep your account and your investments, but you are simply not allowed to buy anymore. The best thing is to reach out to your financial institution and ask them about it. This is true upon moving from the US to Europe too by the way: if your tax residency is in Europe, you are not allowed to invest with most US brokers. So if you intend to do that while you are there, just keep that in mind.
 
 ## 1.2. Registration
 
-Some countries/cities require you to deregister at the town hall or other administrative location when you move - sometimes in person. Figure out in before hand whether this applies to you.
+Some countries/cities require you to deregister at the town hall or other administrative location when you move - sometimes in person. Figure out in beforehand whether this applies to you.
 
 ## 1.3. Passport
 
@@ -56,28 +57,28 @@ Obviously you will need a passport and a visa to move. If you want to keep thing
 
 ## 2.1. Bank account
 
-If you don't have a bank account, you cannot get paid. If you're not already getting to the US I advance if your first day at work, make sure there is at least one working day between your arrival and your first day. This allows you to walk into the nearest bank and open a bank account to be ready to receive a salary. You can always switch banks later if you find a more attractive or practical offer. You cannot do much wrong by identifying the closest Bank of America (BofA) office and just showing up there.
+If you don't have a bank account, you cannot get paid. If you're not already getting to the US in advance of your first day at work, make sure there is at least one working day between your arrival and your first day. This allows you to walk into the nearest bank and open a bank account to be ready to receive a salary. You can always switch banks later if you find a more attractive or practical offer. You cannot do much wrong by identifying the closest Bank of America (BofA) office and just showing up there.
 
 You can check online what you need to open a bank account, usually it will be at least:
 
 - Passport
-- Your visa (usually inside your passport, but just bring any documentation you have ti be safe)
+- Your visa (usually inside your passport, but just bring any documentation you have to be safe)
 - A phone number (ask someone whether you can use theirs, it will make your life easier)
 - An address (Again, ask someone you know whether you can use theirs if you won't have housing yet. You can just update it once you have your own place.)
 - They will usually let you open the account without having a social security number yet, but you will have to send it to them once you obtain an SSN.
 
 ## 2.2. Housing
 
-It is usually a good idea to talk to somebody local or who knows the area who can advice you about safe and not too poorly connected neighborhoods. I wouldn't go searching blindly as to an outsider, it is not obvious at all what are good and bad choices.
+It is usually a good idea to talk to somebody local or who knows the area who can advise you about safe and not too poorly connected neighborhoods. I wouldn't go searching blindly as to an outsider, it is not obvious at all what are good and bad choices.
 
 Overall, there are a couple of points to keep in mind while house hunting:
 
 - Read potential housing contract very carefully and maybe ask a colleague or friend to look it over with you. The US is much, much less regulated and some landlords create really adventurous rules that you might not be ok with.
-- Make sure to ask in advance how rent would be paid. Wire transfers from one person to the next are not really usual on the US, so it often comes down to paper checks or PayPal transfers.
+- Make sure to ask in advance how rent would be paid. Wire transfers from one person to the next are not really usual in the US, so it often comes down to paper checks or PayPal transfers.
 
 ## 2.3. Social security number (SSN)
 
-You employer will provide you with the necessary paper work and tell you where to go to apply for an SSN. You show up there and request it, and then you get your SSN card sent by mail. It is ok if this doesn't happen immediately.
+Your employer will provide you with the necessary paper work and tell you where to go to apply for an SSN. You show up there and request it, and then you get your SSN card sent by mail. It is ok if this doesn't happen immediately.
 
 # 3. General items
 
@@ -87,9 +88,9 @@ You might be tempted to just keep your European phone number and contract becaus
 
 Don't.
 
-So many things depend on you being able to provide your phone number, and they will only ever accept a US phone number. This starts with really important things like access to online banking for your bank account, over ordering food and drinks at bars where you get an alert when it's done, to being able to text and call with your colleagues and friends in the US - text messages are still extremely used there. You'll do yourself a favor if you get a US number.
+So many things depend on you being able to provide your phone number, and they will only ever accept a US phone number. This starts with really important things like access to online banking for your bank account, over ordering food and drinks at bars where you get an alert when it's done, to being able to text and call with your colleagues and friends in the US - text messages are still extremely used over there. You'll do yourself a favor if you get a US number.
 
-Phone plans in the US are generally very expensive. Pre-paid cards can be a cheaper solution. I would in any case advise you check out the company “mint”. They have extremely affordable phone plans that you can always top up if you need extra data. The way to get the cheapest option is to pay for a whole year in advance. They will mail you a SIM card, you activate it and then you're good to go.
+Phone plans in the US are generally very expensive. Pre-paid cards can be a cheaper solution. I would in any case advise you check out the company “mint”. They have extremely affordable phone plans that you can always top up if you need extra data. The way to get the cheapest option is to pay for a whole year in advance. They will mail you a SIM card, you activate it and then you're good to go. They also have e-sim options.
 
 ## 3.2. Credit card
 
@@ -167,7 +168,7 @@ The federal individual tax filing and payment deadline and is generally on April
 
 There are federal, state and city taxes but people file them all at once. Your nationality and visa type also matters for your tax return, as well as for how long you have been in the country for. The tax advisor preparing your taxes will ask you for all this so that they can do their work. A big advantage of having your taxes filed for you is that if you pay someone to do it, they are responsible for any potential mistakes, not you, which makes it a little easier and less stressful for you.
 
-One important piece of information for your tax return is the dates in the year you are filing for that you have been outside of the US. Which means that you need to be able to produce a list of dates on which you have not been physically in the US when your tax advisor asks you for it.
+One important piece of information for your tax return is the dates in the year you are filing for that you have been outside the US. Which means that you need to be able to produce a list of dates on which you have not been physically in the US when your tax advisor asks you for it.
 
 ## 3.7. Venmo
 
