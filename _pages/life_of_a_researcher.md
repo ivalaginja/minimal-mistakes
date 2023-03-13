@@ -12,6 +12,6 @@ others as well.
 
 <a href="/european_moving_to_us/">A European moving to the US</a>
 
-<a href="/european_moving_to_France/">A European moving ot France</a>
+<a href="/european_moving_to_France/">A European moving to France</a>
 
 <a href="/bikes_in_meudon/">How to climb the Observatory hill in Meudon with a bike</a>
