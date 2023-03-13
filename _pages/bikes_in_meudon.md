@@ -3,6 +3,7 @@ layout: archive
 permalink: /bikes_in_meudon/
 title: How to climb the Observatory hill in Meudon with a bike
 ---
+*Last updated: 13 March 2023*
 
 Working at the Paris Observatory in Meudon has is perks, considering its great canteen and fantastic view on the city
 of Paris. However, if you do not drive to work it takes quite some time to walk from whatever public transport station
