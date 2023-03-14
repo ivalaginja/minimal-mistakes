@@ -40,7 +40,7 @@ right of the website):*
 
 *To sign up, go here:*
 
-[Souscription | Parking Vélos](https://sncf-parking-velos.iledefrance-mobilites.fr/parking-velos/abonnement)
+[Souscription Parking Vélos](https://sncf-parking-velos.iledefrance-mobilites.fr/parking-velos/abonnement)
 
 ## Renting a bike with Véligo
 
