@@ -99,7 +99,7 @@ not justify it - but the 1.1 km walk from Gare de Meudon to the Obervatory park 
 have to walk to your office!) should normally be covered under this. Which means that if you are signed up for the free
 bike parking due to your Navigo pass, and even if you are not a student, you can lower your out-of-pocket monthly total
 costs for this setup to about 18.5€ per month: 40€/month for an electric bike, -3€ if you are signed up for the bike
-garage makes 37€/month, and 50% fo that is 18.5€.
+garage makes 37€/month, and 50% of that is 18.5€.
 
 As always, please refer to the official government texts and your own HR department for any concrete guidelines and clarifications.
 
