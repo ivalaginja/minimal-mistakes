@@ -116,7 +116,7 @@ mobilités durables seem to be mutually exclusive.
 
 - Your employer pays at least 50% of your pass Navigo annuel if you use it for your commute
 - The pass Navigo annuel gives you access to free, secured bike parking at Gare de Meudon
-- A subscription yo the bike parking gives you a 3€ discount on a Véligo
+- A subscription to the bike parking gives you a 3€ discount on a Véligo
 - If you use your bike rental to complement your commute, your employer might very well pay for at least 50% of that
 as well, on top of your pass Navigo.
 
