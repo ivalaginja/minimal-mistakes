@@ -295,6 +295,6 @@ sometimes they send out useful information by mail or email, for example if any 
 you can vote from abroad. Check it our for your country.
 
 
---If you found this guide useful, and once you move to the land of the free to find your fame and fortune, consider
+*--If you found this guide useful, and once you move to the land of the free to find your fame and fortune, consider
 sending some beer money my way by using your shiny new Venmo account - my handle is @Iva-Laginja, or simply 
-click [here](https://venmo.com/u/Iva-Laginja).
+click [here](https://venmo.com/u/Iva-Laginja).*
