@@ -33,14 +33,12 @@ at all. You gain immediate access to the bike parking as soon as your order is f
 This is already excellent to know if you use your personal bike and don't want to take it on the train with you. But
 it is also a fantastic feature if you want to rent a bike, which I talk about in the next section.
 
-*For all info about these bike parkings, see here (they have an English version too, you can toggle it on the to
+*For all info about these bike parkings, see here (they have an English version too, you can toggle it on the top
 right of the website):*
 
 [Véligo – Des espaces sécurisés pour votre vélo](https://www.iledefrance-mobilites.fr/actualites/veligo-des-espaces-securises-pour-votre-velo)
 
-*To sign up, go here:*
-
-[Souscription Parking Vélos](https://sncf-parking-velos.iledefrance-mobilites.fr/parking-velos/abonnement)
+*To sign up, go here:* [Souscription Parking Vélos](https://sncf-parking-velos.iledefrance-mobilites.fr/parking-velos/abonnement)
 
 ## Renting a bike with Véligo
 
