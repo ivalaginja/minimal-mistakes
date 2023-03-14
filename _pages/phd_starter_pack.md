@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /phd_starter_pack/
-title: PhD starter back
+title: PhD starter pack
 ---
 
 ## Introduction
@@ -84,6 +84,6 @@ A special note for you astronomers working in instrumentation: [SPIE explicitly 
 ### Personal website
 
 We believe there is no point in reproducing information that is already very well explained, so please let us point you to what we consider an excellent summary about why **every researcher needs to have a personal website**, and why it is ok is you invest only half an hour into it:
-[See here!](https://home.strw.leidenuniv.nl/~kenworthy/advice.html#adv:page) (M. Kenworthy)
+[See here!](https://kenworthy.space/advice.html#advpage) (M. Kenworthy)
 
 This was written by Dr. Matthew Kenworthy at the University of Leiden, and while it is completely unsolicited advice, I believe it is good advice. Additionally to all the reasons Matt Kenworthy puts forward on his page as to why you need a website, look at it this way: We are in the 21st century now, and towards the end of your PhD, you will be looking for a job. Having a correct online presence will make it easier for people to find you, find all the information they might be looking for in a potential new colleague and be able to reach out to you if they wish to. Don't hide, have a website! If you are having troubles hosting a website on your institute's home page, consider hosting it on GitHub.
